@@ -21,6 +21,9 @@
 # Sample Output
 # 19
 
+# k = Number of Offspring
+# index = Number of Breeding Iterations
+
 def fib(k):
     a, b, c = 1, 0, 0
     while True:            # First iteration:
